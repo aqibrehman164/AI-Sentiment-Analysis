@@ -24,7 +24,7 @@ Additionally, the project applied tools like **AWS S3**, **Athena**, and **Quick
 
 This project aims to practice NLP using Spark and process big data using Amazon Web Services. Below is the workflow diagram:
 
-![Workflow](images/workflow.png)
+![Workflow]([images/workflow.png](https://github.com/aqibrehman164/AI-Sentiment-Analysis/blob/main/Workflow.png?raw=true))
 
 ---
 
