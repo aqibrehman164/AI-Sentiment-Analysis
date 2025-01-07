@@ -46,12 +46,7 @@ This project aims to practice NLP using Spark and process big data using Amazon 
    - Upload the notebook to Databricks.
    - Configure the AWS credentials in the notebook.
 
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Mount the S3 bucket:
+3. Mount the S3 bucket:
    Use the provided script to mount your S3 bucket:
    ```python
    def mount_s3_bucket(access_key, secret_key, bucket_name, mount_folder):
