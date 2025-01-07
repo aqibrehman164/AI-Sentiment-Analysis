@@ -80,7 +80,7 @@ This project aims to practice NLP using Spark and process big data using Amazon 
 ### Visualizations
 Below is a snapshot of the project’s dashboard, showcasing key metrics and insights:
 
-![Dashboard](images/AI Sentiment Analysis Dashboard.png)
+![Dashboard]([images/AI Sentiment Analysis Dashboard.png](https://github.com/aqibrehman164/AI-Sentiment-Analysis/blob/dd466275d0b83dcf7eb295d01769bd177158b52d/AI%20Sentiment%20Analysis%20Dashboard.PNG))
 
 ---
 
