@@ -1,7 +1,5 @@
 # Twitter Sentiment Analysis of AI Topics in Databricks Cloud
 
-<img src='https://s3.amazonaws.com/weclouddata/images/logos/wcd_logo_new_2.png' width='20%'>
-
 This repository contains the code and resources for performing sentiment analysis on Twitter data related to AI topics using the Databricks cloud platform. The project demonstrates how to collect, preprocess, and analyze textual data to derive meaningful insights about public sentiment.
 
 ---
